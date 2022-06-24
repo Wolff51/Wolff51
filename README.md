@@ -11,4 +11,3 @@
 - ⚡ Fun fact: ...
 -->
 
-githubstats-psi.vercel.app
