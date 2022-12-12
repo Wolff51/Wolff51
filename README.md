@@ -26,12 +26,6 @@ An ambitious guy who loves to code, play music, gaming and trek.😉😉
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
-<p align="center"> 
-  Visitors count<br>
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
-
 ***
 
 
