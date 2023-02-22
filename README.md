@@ -1,5 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolff51)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolff51&hide=contribs,prs)
 I am _Léo WOlff_. I'm learning code with _O'clock_. I am an junior fullstack developer skilled in Full Stack Development, Application developpement, Php, Javascript and its frameworks. I'm currently studing and working at _Supairvision_
 
 ### 😄 Age
