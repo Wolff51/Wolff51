@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolff51)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I am _Léo WOlff_. I'm learning code with _O'clock_. I am an junior fullstack developer skilled in Full Stack Development, Application developpement, Php, Javascript and its frameworks. I'm currently studing and working at _Supairvision_
+Hello, my name is Léo Wolff. I am a junior full-stack developer currently learning code with O'clock. My skills include Full Stack Development, Application Development, PHP, JavaScript, and its frameworks. Currently, I am studying and working at Supairvision.
 
 ### 😄 Age
 27
