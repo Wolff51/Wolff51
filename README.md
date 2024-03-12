@@ -1,7 +1,5 @@
-Hello, my name is Léo Wolff. I am a junior full-stack developer currently learning code with O'clock. My skills include Full Stack Development, Application Development, PHP, JavaScript, and its frameworks. Currently, I am studying and working at Supairvision.
+Hello, my name is Léo Wolff. I am a full-stack developer. My skills include Full Stack Development, Application Development, PHP, JavaScript, and its frameworks. Currently, I am working at Supairvision.
 
-### 😄 Age
-27
 
 ### 🌱 What do I do and What have I done? 
 
