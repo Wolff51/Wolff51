@@ -7,9 +7,6 @@ Hello, my name is Léo Wolff. I am a junior full-stack developer currently learn
 
 - Studies : Fullstack Developpeur Javascript with O'clock for 6 month
 - Current : Application Conceptor with O'clock and Supairvision for 16 month (Electron JS and React).
-- In progress
-- In progress
-- In progress
 
 
 
